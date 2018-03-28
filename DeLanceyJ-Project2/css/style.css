@@ -2,6 +2,7 @@
 
 body{
 	font-family: 'Open Sans', sans-serif;
+	background-color: #468ace;
 }
 
 textarea{
@@ -15,4 +16,53 @@ textarea{
 	width: 90%;
 	margin: auto;
 	padding: 2em;
+	background-color: white;
 }
+
+.header{
+	text-align: center;
+	display: block;
+}
+
+.header h1{
+	margin-bottom: 0px;
+}
+
+.name-form{
+	text-align: center;
+	display: block;
+}
+
+.name-answers{
+	text-align: center;
+}
+
+
+.button{
+	display: inline-block;
+	padding: 10px;
+	color: white;
+	background-color: #fae262;
+	border-radius: 3px;
+
+}
+
+.button:hover{
+	background-color: #CCCC00;
+	cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
